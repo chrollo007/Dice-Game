@@ -1,0 +1,27 @@
+body{
+    background-color: purple;
+}
+.heading{
+    font-size:xx-large;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.images{
+    margin: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 100px;
+}
+.images img{
+    height: 200px;
+}
+.player{
+    margin: -50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 200px;
+}
